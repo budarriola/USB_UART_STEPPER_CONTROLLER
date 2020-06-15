@@ -1,0 +1,6 @@
+ARM_GCC_541/
+codegentemp/
+Backup/
+*.log
+*.rpt
+*.cywrk
