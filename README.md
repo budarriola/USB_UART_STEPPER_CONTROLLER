@@ -1,7 +1,8 @@
 # USB_UART_STEPPER_CONTROLLER
 Simple cheep usb controle of a stepper motor for rapid prototyping applications
+i am useing a tmc2208 module set in uart mode, but i am not currently useing the uart functions of the tmc2208
 
-uart commands
+usb uart commands
 
 //set 60rpm
 @R60
