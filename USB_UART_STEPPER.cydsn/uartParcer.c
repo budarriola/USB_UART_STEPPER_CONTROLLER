@@ -97,6 +97,8 @@ int processCommand(){
                 if(fabs(degrees)>0){
                     turnCallback(degrees);
                     return 1;
+                }else if (fabs(degrees)==0){
+                    return 1;
                 }
                 break;
             
